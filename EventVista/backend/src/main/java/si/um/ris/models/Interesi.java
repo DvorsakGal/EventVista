@@ -1,0 +1,6 @@
+package si.um.ris.models;
+
+public enum Interesi {
+    UMETNOST, ŠPORT, ZNANOST, ZABAVA, KULTURA, DRUŽBENE_VEDE, FIZIKA, RAČUNALNIŠTVO, AI, FILM, GLASBA, PLES,
+    OBRT, ROKODELSTVO, MODELIRANJE, VZGOJA
+}

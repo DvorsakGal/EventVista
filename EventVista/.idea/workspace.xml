@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b8d56bc0-85ec-469f-baa7-3a4d08faeeb1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/backend/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/backend/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/backend/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/backend/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/backend/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/backend/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/si/um/ris/RisProjektApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/si/um/ris/RisProjektApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/si/um/ris/config/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/si/um/ris/config/SecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/si/um/ris/controllers/AdminController.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/si/um/ris/controllers/AdminController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/si/um/ris/controllers/AuthenticationController.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/si/um/ris/controllers/AuthenticationController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/si/um/ris/controllers/EventController.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/si/um/ris/controllers/EventController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/si/um/ris/controllers/OcenaController.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/si/um/ris/controllers/OcenaController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/si/um/ris/controllers/OrganizatorController.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/si/um/ris/controllers/OrganizatorController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/si/um/ris/controllers/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/si/um/ris/controllers/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/si/um/ris/dto/LoginResponseDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/si/um/ris/dto/LoginResponseDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/si/um/ris/dto/RegistrationDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/si/um/ris/dto/RegistrationDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/si/um/ris/models/AppUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/si/um/ris/models/AppUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/si/um/ris/models/AppUserRole.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/si/um/ris/models/AppUserRole.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/si/um/ris/models/Event.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/si/um/ris/models/Event.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/si/um/ris/models/Interes.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/si/um/ris/models/Interes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/si/um/ris/models/Interesi.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/si/um/ris/models/Interesi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/si/um/ris/models/Ocena.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/si/um/ris/models/Ocena.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/si/um/ris/models/Organizator.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/si/um/ris/models/Organizator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/si/um/ris/models/Role.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/si/um/ris/models/Role.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/si/um/ris/models/Upor.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/si/um/ris/models/Upor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/si/um/ris/repository/IAppUserRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/si/um/ris/repository/IAppUserRepo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/si/um/ris/repository/IEventRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/si/um/ris/repository/IEventRepo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/si/um/ris/repository/IOceneRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/si/um/ris/repository/IOceneRepo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/si/um/ris/repository/IOrganizatorRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/si/um/ris/repository/IOrganizatorRepo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/si/um/ris/repository/IRoleRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/si/um/ris/repository/IRoleRepo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/si/um/ris/service/AuthenticationService.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/si/um/ris/service/AuthenticationService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/si/um/ris/service/TokenService.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/si/um/ris/service/TokenService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/si/um/ris/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/si/um/ris/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/si/um/ris/utils/KeyGeneratorUtility.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/si/um/ris/utils/KeyGeneratorUtility.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/si/um/ris/utils/RSAKeyProperties.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/si/um/ris/utils/RSAKeyProperties.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/test/java/si/um/ris/RisProjektApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/test/java/si/um/ris/RisProjektApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/backend/src/main/java/si/um/ris/RisProjektApplication.java" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2bAxWyo0v1yzVFzoBDzd2WRokI6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Batch.mvnw.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Shell Script.mvnw.executor": "Run",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/HP/Desktop/UltraProjekt",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.10-corretto-17.0.10-4caba194b151-5cd809f4" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b8d56bc0-85ec-469f-baa7-3a4d08faeeb1" name="Changes" comment="" />
+      <created>1705671719935</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705671719935</updated>
+    </task>
+    <servers />
+  </component>
+</project>
